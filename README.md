@@ -2,7 +2,7 @@
 
 Simple Weather Application built with React JS and Rapid API
 
-[Create React App](https://facebook.github.io/create-react-app/) + [Ant Design](https://ant.design).
+[Create React App](https://facebook.github.io/create-react-app/) + [Ant Design](https://ant.design) + [Rapid API](https://rapidapi.com).
 
 ## Step by Step Documentation...
 
